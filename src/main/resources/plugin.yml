@@ -1,0 +1,12 @@
+name: AutoReplant
+version: '${project.version}'
+main: fr.autoreplant.AutoReplant
+api-version: '1.19'
+commands:
+  replant:
+    description: Active ou désactive la fonctionnalité RePlant.
+    usage: /replant <on/off>
+permissions:
+  replant.use:
+    description: Permet aux joueurs d'utiliser la fonctionnalité RePlant.
+    default: true
