@@ -37,4 +37,4 @@ Par ce que je me suis dit que si des gens voulait une base il pouvais
 
 ## Screenshots
 
-![gif](https://im3.ezgif.com/tmp/ezgif-3-972b177a12.gif)
+![gif](https://cdn.discordapp.com/attachments/871646299190067223/1133043075002933319/ezgif.com-video-to-gif.gif)
