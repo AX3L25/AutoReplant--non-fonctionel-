@@ -1,5 +1,5 @@
 
-# AautoReplant
+# AutoReplant
 
 Ce plugin Minecraft, nommé AutoReplant, est conçu pour replanter automatiquement les cultures après leur récolte. Il est écrit en Java et utilise l'API Bukkit pour interagir avec le serveur Minecraft.
 
